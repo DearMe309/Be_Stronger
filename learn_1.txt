@@ -1,3 +1,7 @@
 yeji lia ryujin chaeyeong yuna
 itzy itzy itzy
+<<<<<<< HEAD
 itzy is a girl group
+=======
+itzy is a group
+>>>>>>> dev
